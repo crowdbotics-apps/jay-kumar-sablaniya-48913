@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-audio-player](modules/audio-player)
 - [django-files](backend/modules)
 - [django-calendly](backend/modules)
+- [django-contact-us](backend/modules)
 
 # Getting started: Frontend
 
