@@ -23,6 +23,7 @@
     "@modules/photo-editing": "file:./modules/photo-editing/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/social-login": "file:./modules/social-login/",
+    "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-community/cameraroll": "4.1.2",
