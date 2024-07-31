@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/appointment-local": "file:./modules/appointment-local/",
+    "@modules/audio-player": "file:./modules/audio-player/",
     "@modules/image-gallery": "file:./modules/image-gallery/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
@@ -38,6 +39,7 @@
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.71.7",
+    "react-native-audio-recorder-player": "3.5.3",
     "react-native-calendar-strip": "2.2.5",
     "react-native-calendars": "1.1282.0",
     "react-native-dotenv": "^3.4.8",
@@ -56,13 +58,15 @@
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^4.5.2",
     "react-native-screens": "3.10.2",
+    "react-native-slider": "^0.11.0",
     "react-native-tab-view": "3.1.1",
     "react-native-unimodules": "0.13.3",
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "^0.18.10",
     "react-native-webview": "11.23.0",
     "react-redux": "^8.0.5",
-    "redux": "^4.2.1"
+    "redux": "^4.2.1",
+    "rn-fetch-blob": "0.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
